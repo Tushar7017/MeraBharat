@@ -8,12 +8,15 @@
     color: white;
 }
 
-header{
-    width: 100%;
-    height: 100vh;
+body{
     background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('/Tajmahal.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+header{
+    width: 100%;
+    height: 100vh;
 }
 
 nav{
